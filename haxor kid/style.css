@@ -1,0 +1,17 @@
+/*
+Theme Name: haxor kid
+Theme URI: http://designiscasual.com/wp/themes/HAXR/haxorkid
+Description: child of HAXR
+Author: casualbrooks
+Author URI: http://www.designiscasual.com/
+Template: HAXR
+License: License: gplv2
+License URI: http://wordpress.org/about/gpl/
+*/
+
+@import url("../HAXR/style.css");
+
+
+img {
+	max-width: 640px;
+}
