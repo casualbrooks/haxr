@@ -1,14 +1,7 @@
-<html>
-<head>
-</head>
-<body>
-	<p>a starting theme from scratch. for wordpress. a parent theme HAXR, and child haxor kid (to fix what the parent messes up).<br>
-		dont feel bad about changing the info to your own.<br>
-		best used for hacktivism.<br>
-		let your posts do the actioning.</p>
-		
-	<p>download zip or clone/etc from github - <a href="https://github.com/casualbrooks/haxr">HAXR and haxor kid</a></p>
-	<p><a href="http://www.designiscasual.com/wp/themes/HAXR">HAXR</a></p>
+a starting theme from scratch. for wordpress. a parent theme HAXR, and child haxor kid (to fix what the parent messes up). dont feel bad about changing the info to your own. best used for hacktivism. let your posts do the actioning.
 
-</body>
-</html>
+download zip or clone/etc from github - HAXR and haxor kid
+https://github.com/casualbrooks/haxr
+
+HAXR
+http://www.designiscasual.com/wp/themes/HAXR
