@@ -7,7 +7,7 @@
 		best used for hacktivism.<br>
 		let your posts do the actioning.</p>
 		
-	<p>download zip or clone/etc from github - <a href="">HAXR and haxor kid</a></p>
+	<p>download zip or clone/etc from github - <a href="https://github.com/casualbrooks/haxr">HAXR and haxor kid</a></p>
 	<p><a href="http://www.designiscasual.com/wp/themes/HAXR">HAXR</a></p>
 
 </body>
