@@ -1,6 +1,6 @@
 /*
 Theme Name: haxor kid
-Theme URI: http://designiscasual.com/wp/themes/HAXR/haxorkid
+Theme URI: http://designiscasual.com/wp/themes/HAXR
 Description: child of HAXR
 Author: casualbrooks
 Author URI: http://www.designiscasual.com/
@@ -12,6 +12,11 @@ License URI: http://wordpress.org/about/gpl/
 @import url("../HAXR/style.css");
 
 
+h2 a {
+	color: #000;
+	text-decoration: none;
+}
+
 img {
-	max-width: 640px;
+	max-width: 605px;
 }

@@ -1,12 +1,17 @@
 /*
 Theme Name: HAXR
-Theme URI: http://designiscasual.com/wp/HAXR
+Theme URI: http://designiscasual.com/wp/themes/HAXR
 Description: hactivists for use only for haxing.
 Author: casualbrooks
 Author URI: http://designiscasual.com
 Version: 0.0
 Tags: one-column
-
 License: gplv2
 License URI: http://wordpress.org/about/gpl/
 */
+
+h2 a {
+	
+	color: #ff0000;
+	
+}
